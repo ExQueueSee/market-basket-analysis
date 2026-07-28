@@ -1,0 +1,8 @@
+Step,RowsRemovedThisStep,RowsRemaining,AffectedTransactions,TransactionsRemovedCompletely,TransactionsRemaining,UniqueItemsRemaining
+Raw input,0,1067371,0,0,54716,5131
+Remove exact duplicates,12133,1055238,4471,0,54716,5131
+Remove cancellation invoices,19433,1035805,8428,8428,46288,5125
+Remove non-positive Quantity,3457,1032348,3457,3457,42831,4813
+Remove non-positive Price,2739,1029609,2049,1920,40911,4745
+Remove missing or blank Description,0,1029609,0,0,40911,4745
+Remove administrative codes and gift vouchers,4639,1024970,4469,565,40346,4725

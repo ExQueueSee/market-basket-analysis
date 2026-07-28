@@ -1,0 +1,21 @@
+StockCode,RowCount,TransactionCount,TotalQuantity,MedianPrice,RepresentativeDescription
+POST,1886,1886,5461,18.0,POSTAGE
+DOT,1436,1436,1436,155.26999999999998,DOTCOM POSTAGE
+M,871,805,9753,2.95,Manual
+C2,272,272,273,50.0,CARRIAGE
+ADJUST,36,36,36,83.095,Adjustment by john on 26/01/2010 16
+BANK CHARGES,35,34,35,15.0,Bank Charges
+GIFT_0001_20,26,26,28,17.02,Dotcomgiftshop Gift Voucher £20.00
+GIFT_0001_30,24,24,24,25.53,Dotcomgiftshop Gift Voucher £30.00
+GIFT_0001_10,14,14,15,8.33,Dotcomgiftshop Gift Voucher £10.00
+TEST001,9,9,50,4.5,This is a test product.
+GIFT_0001_50,6,6,6,42.11,Dotcomgiftshop Gift Voucher £50.00
+D,5,5,196,32.29,Discount
+GIFT_0001_40,5,5,5,33.33,Dotcomgiftshop Gift Voucher £40.00
+AMAZONFEE,4,4,4,10124.02,AMAZON FEE
+ADJUST2,3,3,3,300.13,Adjustment by Peter on Jun 25 2010
+S,3,3,3,33.05,SAMPLES
+B,1,1,1,11062.06,Adjust bad debt
+GIFT_0001_70,1,1,1,59.57,Dotcomgiftshop Gift Voucher £70.00
+GIFT_0001_80,1,1,1,69.56,Dotcomgiftshop Gift Voucher £80.00
+TEST002,1,1,1,1.0,This is a test product.

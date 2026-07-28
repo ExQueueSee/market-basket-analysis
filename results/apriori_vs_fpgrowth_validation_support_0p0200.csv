@@ -1,0 +1,2 @@
+MinSupport,AprioriItemsetCount,FPGrowthItemsetCount,AprioriOnlyItemsetCount,FPGrowthOnlyItemsetCount,TransactionCountMismatchCount,ExactItemsetAndCountMatch
+0.02,324,324,0,0,0,True

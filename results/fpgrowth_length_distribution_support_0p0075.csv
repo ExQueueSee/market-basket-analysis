@@ -1,0 +1,6 @@
+MinSupport,SupportPercentage,MinimumTransactionCount,ItemsetLength,FrequentItemsetCount
+0.0075,0.75,297,1,969
+0.0075,0.75,297,2,1286
+0.0075,0.75,297,3,354
+0.0075,0.75,297,4,56
+0.0075,0.75,297,5,1

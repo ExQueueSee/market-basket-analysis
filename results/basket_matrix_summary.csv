@@ -1,0 +1,15 @@
+Metric,Value
+Transactions (rows),39516.0
+Unique items (columns),4725.0
+Total possible cells,186713100.0
+True cells / non-zero entries,992053.0
+False cells,185721047.0
+Density,0.0053132479724240025
+Density percentage,0.5313247972424002
+CSR storage MiB,4.881222724914551
+Pandas sparse DataFrame MiB,8.41399097442627
+Equivalent dense bool matrix MiB,178.0634880065918
+Equivalent dense float64 matrix MiB,1424.5079040527344
+Minimum basket size,1.0
+Median basket size,15.0
+Maximum basket size,1106.0

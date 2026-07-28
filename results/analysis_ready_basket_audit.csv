@@ -1,0 +1,10 @@
+Metric,Value
+Analysis-ready line rows,1003357
+Transactions,39516
+Unique items,4725
+Unique transaction-item pairs,992053
+Repeated item lines collapsed,11304
+Transactions with at least 2 unique items,36308
+Single-item transactions,3208
+Transactions with multiple timestamps,82
+Cross-sheet invoices remaining,0

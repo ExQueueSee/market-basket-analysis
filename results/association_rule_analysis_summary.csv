@@ -1,0 +1,14 @@
+Metric,Value
+Frequent-itemset min support,0.0075
+Minimum transaction count,297
+Validated frequent itemsets,2666
+All generated rules,5510
+Primary minimum confidence,0.3
+Primary rules,2566
+Primary one-to-one rules,892
+Primary rules with lift > 1,2566
+Confidence-qualified rules with lift <= 1,0
+Confidence-qualified rules with 1 < lift <= 1.10,0
+High directional-confidence imbalance rules,554
+Diagnostic rule candidates,554
+Apriori–FP-Growth exact itemset match,True
