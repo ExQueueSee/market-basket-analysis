@@ -1,5 +1,7 @@
 # Market Basket Analysis
 
+## Author: Ataberk Tekin
+
 This repository contains my BIL 476 Data Mining course project. It uses the Online Retail II dataset to compare Apriori and FP-Growth and to examine association rules from retail transactions.
 
 The rules are evaluated using support, confidence, lift, Kulczynski, cosine, and imbalance ratio. The full analysis is in `BIL476_Market_Basket_A100_Optimized.ipynb`.
@@ -8,4 +10,8 @@ The rules are evaluated using support, confidence, lift, Kulczynski, cosine, and
 - `results/`: exported tables and rule outputs
 - `figures/`: plots used in the analysis
 
-The notebook was prepared for Google Colab. Run the cells in order. The Apriori tests at lower support values use a large amount of RAM, so a high-memory runtime may be needed.
+> I highly recommend running the notebook on the Colab environment for file saving on Google Drive. Run the cells in order. The Apriori tests at lower support values use a large amount of RAM, so a high-memory runtime may be needed. (A100 was used for this project, as you may understand from the notebook file name.
+
+> I kept the outputs of the cells inside the notebook on purpose to show my work process, which may make the notebook seem ugly/disorganized. You can still run the code and override these outputs and generate them yourself. There will occasionally be warnings about deprecated methods/calls, but they are not important.
+
+ 
